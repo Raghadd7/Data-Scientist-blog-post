@@ -64,4 +64,4 @@ This project is part of the [Udacity](https://www.udacity.com) Data Scientist Na
 The data are collected from [Kickstarter Platform,](https://www.kickstarter.com)
 you can find the dataset at the Kaggle link available [here](https://www.kaggle.com/kemical/kickstarter-projects?select=ks-projects-201801.csv).
 
-The contents of this repository are covered under the [MIT License.]()
+The contents of this repository are covered under the [MIT License.](https://github.com/Raghadd7/Data-Scientist-blog-post/blob/main/LICENSE)
